@@ -28,7 +28,7 @@ You can **access and download the shared files** via the following SharePoint fo
 For questions or collaboration, feel free to connect with me:
 
 - 📧 Email: fakhrul_syahmi@mufasyah.onmicrosoft.com  
-- 💼 LinkedIn: [Fakhrul Syahmi](https://www.linkedin.com/in/fakhrulsyahmi/)
+- 💼 LinkedIn: [Fakhrul Syahmi](https://www.linkedin.com/in/fakhrul-syahmi-799730136/)
 
 ---
 
