@@ -1,6 +1,6 @@
 # 📌 Power Apps Repositories – Shared Collection
 
-Dear colleagues and collaborators,
+Dear participants & collaborators,
 
 I have compiled and uploaded several Power Apps projects and resources that I’ve developed and used during my training and consultation sessions.
 
